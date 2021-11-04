@@ -1,0 +1,62 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+body{
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=5846&resolucion=2560x1440);
+    text-align: center;
+}
+
+.tablas{
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: capitalize;
+    border: solid 1px;
+    height: 15px;
+    margin: 15px;
+    padding: 8px;
+
+}
+
+a:hover{
+    background-color: rgba(0, 0, 255, 0.432);
+}
+
+input{
+    background-color: rgba(240, 248, 255, 0.212);
+}
+
+input:hover{
+    background-color: rgba(240, 248, 255, 0.603);
+}
+
+button{
+    width: 200px;
+    font-size: 25px;
+    background-color: rgba(128, 13, 236, 0.815);
+    color: aliceblue;
+}
+
+button:hover{
+    width: 215px;
+    background-color: rgba(240, 248, 255, 0.13);
+    color: black;
+}
+
+#div{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
